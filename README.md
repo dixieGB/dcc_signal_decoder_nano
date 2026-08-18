@@ -31,6 +31,10 @@ A branded Windows `.exe` (Python/Tkinter, packaged with PyInstaller and Inno Set
 - **User Guides & Change Logs** per firmware version, opened straight from the app.
 - **Auto-update** — checks GitHub Releases on startup and offers to download/install a newer version automatically.
 
+## Documentation
+
+The [User Guide](DCC_Signal_Decoder_User_Guide_v1_0.docx) covers everything from installing the Uploader through to configuring the board via Board Settings — the same guide is bundled with the app itself and opens straight from the "User Guide" button next to the firmware version dropdown.
+
 ## Getting the software
 
 Download the latest installer from the [Releases](../../releases/latest) page and run it — it installs the app, optional USB-serial drivers (covering most genuine and clone Nano boards), a Start Menu shortcut, and an uninstaller.
