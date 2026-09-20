@@ -33,7 +33,7 @@ A branded Windows `.exe` (Python/Tkinter, packaged with PyInstaller and Inno Set
 
 ## Documentation
 
-The [User Guide](DCC_Signal_Decoder_User_Guide_v1_0.docx) covers everything from installing the Uploader through to configuring the board via Board Settings — the same guide is bundled with the app itself and opens straight from the "User Guide" button next to the firmware version dropdown.
+The [User Guide](DCC_Signal_Decoder_User_Guide_v1_0.pdf) covers everything from installing the Uploader through to configuring the board via Board Settings — the same guide is bundled with the app itself and opens straight from the "User Guide" button next to the firmware version dropdown.
 
 ## Getting the software
 
